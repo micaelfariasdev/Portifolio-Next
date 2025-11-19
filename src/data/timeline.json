@@ -1,0 +1,44 @@
+[
+  {
+    "year": "O Sonho",
+    "title": "Paixão por Tecnologia",
+    "description": "Desde cedo, sempre fui fascinado por computadores. Não era apenas sobre jogar, mas entender como aquelas máquinas funcionavam. Sabia que meu futuro estava nas linhas de código.",
+    "icon": "Terminal",
+    "color": "from-blue-500 to-cyan-500"
+  },
+  {
+    "year": "2024",
+    "title": "Hello World",
+    "description": "Escrevi minha primeira linha de código. A sensação de criar algo do zero e ver funcionando mesmo que através do terminal foi incrível. Comecei Python e lógica de programação.",
+    "icon": "Code2",
+    "color": "from-purple-500 to-pink-500"
+  },
+  {
+    "year": "2025 - Janeiro",
+    "title": "Mergulho no Framework",
+    "description": "Decidi que não queria limites. Comecei a estudar Django — foi a primeira vez que tive contato com HTML e CSS. Ali dei meu primeiro passo entre o back-end e o front-end. Entender o ciclo completo de uma aplicação se tornou meu novo objetivo.",
+    "icon": "Layers",
+    "color": "from-emerald-500 to-green-500"
+  },
+  {
+    "year": "2025 - Fevereiro",
+    "title": "Buscando novos ares",
+    "description": "Depois de um tempo explorando HTML e CSS, senti que precisava ir além. A vontade de criar coisas maiores e mais vivas me impulsionou a mergulhar no JavaScript — foi o momento em que as páginas começaram a ganhar vida diante dos meus olhos.",
+    "icon": "FileCode",
+    "color": "from-yellow-500 to-orange-500"
+  },
+  {
+    "year": "2025 - Fevereiro",
+    "title": "Primeiro contato com React",
+    "description": "No mesmo mês, fui desafiado a criar minha primeira API e separar de vez o back-end do front-end. Foi quando conheci o React. Cada requisição que funcionava, cada componente que tomava forma, me dava a sensação de estar finalmente construindo aplicações de verdade.",
+    "icon": "Atom",
+    "color": "from-sky-500 to-blue-500"
+  },
+  {
+    "year": "2025 - Março",
+    "title": "Descobrindo o poder do Tailwind",
+    "description": "No mês seguinte, mergulhei no Tailwind. A rapidez para estilizar e ver tudo ganhar vida na tela mudou completamente minha forma de construir interfaces. Cada classe aplicada parecia destravar um novo nível na minha evolução como desenvolvedor.",
+    "icon": "Wind",
+    "color": "from-indigo-500 to-purple-500"
+  }
+]
