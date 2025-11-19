@@ -8,6 +8,7 @@ export default function MfLogo() {
       width={250}
       height={150}
       style={{ height: "auto" }}
+      className="w-130"
     />
   );
 }

@@ -40,5 +40,12 @@
     "description": "No mês seguinte, mergulhei no Tailwind. A rapidez para estilizar e ver tudo ganhar vida na tela mudou completamente minha forma de construir interfaces. Cada classe aplicada parecia destravar um novo nível na minha evolução como desenvolvedor.",
     "icon": "Wind",
     "color": "from-indigo-500 to-purple-500"
+  },
+  {
+    "year": "2025 - Setembro",
+    "title": "Novos desafios, novos horizontes",
+    "description": "Em busca de novas oportunidades, mergulhei no Node.js com Express. Nesse período, desenvolvi um sistema completo que integrava WhatsApp através do wweb.js e WebSocket. Cada mensagem fluindo em tempo real mostrava o quanto eu estava preparado para construir soluções mais maduras e poderosas.",
+    "icon": "Server",
+    "color": "from-lime-500 to-emerald-600"
   }
 ]
